@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"/>
+    <item
+        android:id="@+id/nav_call"
+        android:icon="@drawable/ic_local_phone_black"
+        android:title="Call"/>
+    <item
+        android:id="@+id/nav_picture"
+        android:icon="@drawable/ic_local_see_black"
+        android:title="Picture"/>
+    <item
+        android:id="@+id/nav_location"
+        android:icon="@drawable/ic_place_black"
+        android:title="Location"/>
+    <item
+        android:id="@+id/nav_restaurant"
+        android:icon="@drawable/ic_restaurant_menu_black"
+        android:title="Restaurant"/>
+
+</menu>
